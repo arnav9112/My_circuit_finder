@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "844772642659",
+    "firebase_url": "https://circuitfinder-90fec-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "circuitfinder-90fec",
+    "storage_bucket": "circuitfinder-90fec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844772642659:android:b2bab493fa83efd2d50d56",
+        "android_client_info": {
+          "package_name": "com.example.jswcircuitfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844772642659-6bgthq26ettsg47qm9kig0ubgh0br1bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz-1p2bjRXNuRNd81Ox4qVzC2G70c-cYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844772642659-6bgthq26ettsg47qm9kig0ubgh0br1bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844772642659:android:7c488edbad5b8170d50d56",
+        "android_client_info": {
+          "package_name": "com.example.mycircuitfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844772642659-6bgthq26ettsg47qm9kig0ubgh0br1bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz-1p2bjRXNuRNd81Ox4qVzC2G70c-cYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844772642659-6bgthq26ettsg47qm9kig0ubgh0br1bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
